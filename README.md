@@ -38,5 +38,10 @@ Search on [Grand Challenge](https://grand-challenge.org/challenges/)
 - Segmentation (Tissue, Nuclei)
 - Retrieval
 #### Paradigms:
-- Semi-supervised Learning, Multiple Instance Learning, Multi-task Learning, Contrastive Learning, Graph Representation Learning
+- Semi-supervised Learning
+- Multiple Instance Learning
+- Multi-task Learning
+- Contrastive Learning
+- Graph Representation Learning
+
 #### Add more reference later
