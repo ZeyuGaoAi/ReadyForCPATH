@@ -32,8 +32,11 @@ Search on [Grand Challenge](https://grand-challenge.org/challenges/)
 
 ### Commonly used Learning Paradigms and Tasks:
 #### Tasks:
-- WSI-level: Classification (Subtyping, Grading, Staging...), Detection (Thrombus, Nerve), Regression (Survival analysis).
-- Patch-level: Segmentation (Tissue, Nuclei).
+- Classification (Subtyping, Grading, Staging)
+- Detection (Thrombus, Nerve)
+- Regression (Survival analysis)
+- Segmentation (Tissue, Nuclei)
+- Retrieval
 #### Paradigms:
 - Semi-supervised Learning, Multiple Instance Learning, Multi-task Learning, Contrastive Learning, Graph Representation Learning
 #### Add more reference later
