@@ -33,10 +33,21 @@ Search on [Grand Challenge](https://grand-challenge.org/challenges/)
 ### Commonly used Learning Paradigms and Tasks:
 #### Tasks:
 - Classification (Subtyping, Grading, Staging)
+  - [Deep Learning for Identifying Metastatic Breast Cancer](https://arxiv.org/abs/1606.05718)
+  - [Classification and mutation prediction from non–small cell lung cancer histopathology images using deep learning](https://www.nature.com/articles/s41591-018-0177-5?sf197831152=1)
+  - [A semi-supervised multi-task learning framework for cancer classification with weak annotation in whole-slide images](https://www.sciencedirect.com/science/article/abs/pii/S1361841522002808)
+  - [Clinical-grade computational pathology using weakly supervised deep learning on whole slide images](https://www.nature.com/articles/s41591-019-0508-1)
+  - [Data-efficient and weakly supervised computational pathology on whole-slide images](https://www.nature.com/articles/s41551-020-00682-w)
+  - [Instance-Based Vision Transformer for Subtyping of Papillary Renal Cell Carcinoma in Histopathological Image](https://link.springer.com/chapter/10.1007/978-3-030-87237-3_29)
+  - [DT-MIL: Deformable Transformer for Multi-instance Learning on Histopathological Image](https://link.springer.com/chapter/10.1007/978-3-030-87237-3_20)
 - Detection (Thrombus, Nerve)
 - Regression (Survival analysis)
 - Segmentation (Tissue, Nuclei)
+  - [HoVer-Net: Simultaneous Segmentation and Classification of Nuclei in Multi-Tissue Histology Images](https://www.sciencedirect.com/science/article/abs/pii/S1361841519301045)
+  - [Nuclei Grading of Clear Cell Renal Cell Carcinoma in Histopathological Image by Composite High-Resolution Network](https://link.springer.com/chapter/10.1007/978-3-030-87237-3_13)
+  - [Unsupervised Representation Learning for Tissue Segmentation in Histopathological Images: From Global to Local Contrast](https://ieeexplore.ieee.org/abstract/document/9830779/)
 - Retrieval
+  - [Fast and scalable search of whole-slide images via self-supervised deep learning](https://www.nature.com/articles/s41551-022-00929-8)
 #### Paradigms:
 - Semi-supervised Learning
 - Multiple Instance Learning
