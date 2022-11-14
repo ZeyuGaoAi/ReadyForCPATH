@@ -26,6 +26,7 @@ Computational pathology refers to the use of ML and specifically deep learning f
 
 - [Mahmood Lab](https://faisal.ai/)
 - [Tissue Image Analytics (TIA) Centre](https://warwick.ac.uk/fac/cross_fac/tia/)
+- [Computational Pathology Group](https://www.computationalpathologygroup.eu/)
 
 ### Challenges you can join:
 Search on [Grand Challenge](https://grand-challenge.org/challenges/)
