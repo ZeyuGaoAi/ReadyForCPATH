@@ -10,6 +10,7 @@ Computational pathology refers to the use of ML and specifically deep learning f
 - [Deep learning in histopathology: the path to the clinic](https://www.nature.com/articles/s41591-021-01343-4)
 - [Deep neural network models for computational histopathology: A survey](https://www.sciencedirect.com/science/article/pii/S1361841520301778)
 - [Digital and Сomputational Pathology: Workflow, Tools, and Limitations to Be Addressed](https://www.altexsoft.com/blog/digital-computational-pathology/)
+- [Deep learning in cancer pathology: a new generation of clinical biomarkers](https://www.nature.com/articles/s41416-020-01122-x)
 
 ### Journals and Conferences you need to follow:
 
